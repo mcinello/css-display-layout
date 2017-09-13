@@ -11,8 +11,9 @@ h1 {
   margin: 0 auto;
   width: 80%;
   text-align: center;
+}
 
-nav > a {
+nav a {
   text-decoration: none;
   display: inline-block;
   margin: auto;
@@ -22,9 +23,11 @@ nav > a {
   padding: 15px 5px;
 }
 
-h3 {
+h2 {
   display: block;
   margin: auto;
   background-color: turquoise;
   width: 70%;
+  padding: 12px;
+  font-weight: lighter;
 }
