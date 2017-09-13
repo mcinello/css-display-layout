@@ -62,4 +62,11 @@ span {
 img {
 width: 328px;
 height: 425px;
+margin-top: 15px;
+}
+
+.photo-options {
+  display: block;
+  background-color: #cbb600;
+  padding: 10px;
 }
