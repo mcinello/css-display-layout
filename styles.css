@@ -1,7 +1,11 @@
+/*box model and font for page*/
+
 html {
   box-sizing: border-box;
   font-family: Verdana, sans-serif;
 }
+
+/*Header area*/
 
 h1 {
   display: block;
@@ -27,14 +31,16 @@ nav.container1 a {
   font-weight: bold;
   font-size: 20px;
   padding: 12px 5px;
-  margin: 1px 0 10px;
+  margin: 1px 0 6px;
   text-align: center;
 }
 
+/*Main section*/
+
 h2 {
-  background-color: turquoise;
-  padding: 12px;
-  font-weight: normal;
+  background-color: #8bffd9;
+  padding: 15px;
+  font-weight: 500;
 }
 
 span {
@@ -45,4 +51,15 @@ span {
   display: block;
   width: 70%;
   margin: auto;
+}
+
+/*Photo section*/
+
+.photo {
+  display: inline-block;
+}
+
+img {
+width: 328px;
+height: 425px;
 }
