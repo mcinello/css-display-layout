@@ -1,0 +1,11 @@
+html {
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  inline: block;
+  margin: auto 0;
+  color: #FFFFFF;
+  background-color: #000000;
+}
