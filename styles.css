@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: Helvetica, sans-serif;
+  font-family: Verdana, sans-serif;
 }
 
 h1 {
@@ -28,6 +28,7 @@ nav a {
   font-weight: bold;
   font-size: 20px;
   padding: 12px 5px;
+  margin: 1px 0 10px;
 }
 
 h2 {
@@ -36,5 +37,9 @@ h2 {
   background-color: turquoise;
   width: 70%;
   padding: 12px;
-  font-weight: lighter;
+  font-weight: normal;
+}
+
+span {
+  font-weight: bold;
 }
