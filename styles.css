@@ -19,27 +19,30 @@ nav {
   text-align: center;
 }
 
-nav a {
+nav.container1 a {
   text-decoration: none;
   display: inline-block;
   background-color: #e3e3e3;
   color: #FFFFFF;
-  font-family: Helvetica, sans-serif;
   font-weight: bold;
   font-size: 20px;
   padding: 12px 5px;
   margin: 1px 0 10px;
+  text-align: center;
 }
 
 h2 {
-  display: block;
-  margin: auto;
   background-color: turquoise;
-  width: 70%;
   padding: 12px;
   font-weight: normal;
 }
 
 span {
   font-weight: bold;
+}
+
+.container2 {
+  display: block;
+  width: 70%;
+  margin: auto;
 }
