@@ -70,3 +70,8 @@ margin-top: 15px;
   background-color: #cbb600;
   padding: 10px;
 }
+
+.edit-photo {
+  border-right: 1px black solid;
+  padding: 0 5px;
+}
