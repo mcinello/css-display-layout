@@ -13,7 +13,7 @@ h1 {
   padding:15px;
   color: #FFFFFF;
   margin: 0 auto;
-  width: 80%;
+  width: 75%;
   text-align: center;
 }
 
@@ -31,7 +31,7 @@ nav.container1 a {
   font-weight: bold;
   font-size: 20px;
   padding: 12px 5px;
-  margin: 1px 0 6px;
+  margin: 1px 0 4px;
   text-align: center;
 }
 
@@ -41,6 +41,7 @@ h2 {
   background-color: #8bffd9;
   padding: 15px;
   font-weight: 500;
+  margin-bottom: -1px;
 }
 
 span {
@@ -60,9 +61,9 @@ span {
 }
 
 img {
-width: 328px;
-height: 425px;
-margin-top: 15px;
+width: 435.5px;
+height: 535px;
+margin: 20px 1px 0;
 }
 
 .photo-options {
@@ -74,4 +75,20 @@ margin-top: 15px;
 .edit-photo {
   border-right: 1px black solid;
   padding: 0 5px;
+  margin-right: 1px;
+}
+
+/*Footer*/
+
+footer {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 95%;
+  background-color: #000000;
+  color: #FFFFFF;
+  font-size: 80%;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
 }
